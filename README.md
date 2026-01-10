@@ -64,7 +64,7 @@ memory-game/
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/memory-game
+git clone https://github.com/Rusby6/memory-game
 ```
 2. Accede al directorio del proyecto:
 
