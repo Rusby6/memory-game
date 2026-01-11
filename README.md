@@ -8,19 +8,17 @@ iguales en un tablero de 16 cartas (8 pares).
 ## ✅ Características
 - Tablero de 16 cartas: 8 pares diferentes de imágenes
 - Mezcla aleatoria: Las cartas se reorganizan en cada partida
-- Mecánica de juego clásica:
-- Voltear dos cartas por turno
+- Mecánica de juego clásica
+- Girar dos cartas por turno
 - Mantenerlas visibles si son iguales
 - Volver a girarlas si son diferentes
 - Contador de pares: Seguimiento automático de pares encontrados
 - Sistema de finalización: Mensaje de victoria al encontrar todos los pares
 - Reinicio automático: Nueva partida automáticamente al ganar
-- Diseño atractivo:
+- Diseño atractivo
 - Efectos hover en las cartas
-- Transiciones suaves al voltear
-- Diseño responsive con Grid CSS
 
-  ## 🎮 Características del juego
+## 🎮 Características del juego
 - Temporizador de volteo: 1 segundo para memorizar cuando las cartas no coinciden
 - Prevención de clics múltiples: No puedes hacer clic mientras se procesa un par
 - Sistema de índice: Cada carta tiene un identificador único para su control
@@ -31,7 +29,6 @@ iguales en un tablero de 16 cartas (8 pares).
 - Grid de 4x4 para las 16 cartas
 - Efectos de sombra y elevación en las cartas
 - Animaciones suaves al hacer hover y voltear cartas
-- Responsive para diferentes tamaños de pantalla
 
 ## 🛠️ Tecnologías utilizadas
 - HTML5
