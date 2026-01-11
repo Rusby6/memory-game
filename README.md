@@ -54,14 +54,14 @@ memory-game/
 │   ├── img-1.png   # Imágenes de las cartas (8 diferentes)
 │   ├── img-2.png
 │   ├── ...
-│   └── question.jpg # Imagen de reverso de carta
+│   └── question.jpg # Imagen girada de la carta
 └── README.md       # Documentación
 ```
 ## 🔧 Instalación
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/Rusby6/memory-game
+git clone https://github.com/Rusby6/memory-game.git
 ```
 2. Accede al directorio del proyecto:
 
